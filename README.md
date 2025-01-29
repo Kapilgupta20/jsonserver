@@ -1,1 +1,1 @@
-# jsonserver
+This is a json data file for ajackus user management dashboard assignment
